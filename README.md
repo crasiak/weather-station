@@ -1,3 +1,5 @@
+> **Personal fork — not intended for public consumption.** This is a personal working copy of [jckuester/weather-station](https://github.com/jckuester/weather-station), kept for experiments. It is unmaintained and unsupported, may diverge from upstream or be rewritten at any time, and nothing here is released for others to use. Use the upstream project instead.
+
 <img alt="Weather Station" src="img/logo_banner.png" />
  
 ---
